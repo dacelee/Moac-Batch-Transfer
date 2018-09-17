@@ -26,7 +26,6 @@ processedListUpdateFile to the same file for convenience during multiple runs.
 Usage
 -----
 
-.. code:: bash
 
     ## fill in the config options according to your own environment
     mv config.sample.js config.js
