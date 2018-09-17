@@ -38,5 +38,7 @@ Usage
 Duplication detection is included.
 
 I know you are already very tired, BE CAREFUL to make sure the CSV file is correct, it is very fast and no going back.
+
 ##Donations
+
 MOAC: 0x53be4cb8f27152893b448f9f569624afd1a97e0c
