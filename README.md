@@ -13,7 +13,7 @@ Configuration
 The scripts utilized web3's personal API, for it to work you must enable it in your moac node first.
 Start your moac node with the following command with do the trick:
 
-.. code:: bash
+
 
     geth --rpc
 
