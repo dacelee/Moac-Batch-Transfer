@@ -3,7 +3,7 @@ Batch MOAC Transfer Utility
 
 Load addresses and moac amounts from a CSV file and transfer all in a single batch.
 
-Helpful when you have a large amount of ethers need to be transferred to different accounts,
+Helpful when you have a large amount of moac need to be transferred to different accounts,
 for example in an ICO refunding process due to newly published regulation rules, this utility
 may earn you some more hours to sleep.
 
