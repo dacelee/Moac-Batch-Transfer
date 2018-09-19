@@ -15,7 +15,7 @@ Start your moac node with the following command with do the trick:
 
 
 
-    geth --rpc
+    moac --rpc
 
 
 Duplication detection works by loading a processed address list from file and check duplicates
